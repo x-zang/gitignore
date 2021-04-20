@@ -3,8 +3,15 @@
 *.fastq
 *.fa
 *.fq
+*.fasta.gz
+*.fastq.gz
+*.fa.gz
+*.fq.gz
 *.fai
 *.dict
+
+# sequence indices
+*.?.ht2
 
 # graphs
 *.gfa
@@ -27,6 +34,7 @@
 *.gtf
 *.gvf
 *.vcf
+*.vcf.gz
 *.bcf
 *.tbi
 *.wig
