@@ -1,0 +1,37 @@
+# sequences
+*.fasta
+*.fastq
+*.fa
+*.fq
+*.fai
+*.dict
+
+# graphs
+*.gfa
+*.vg
+*.xg
+
+# mapping
+*.sam
+*.bam
+*.bai
+*.cram
+*.unmapped.bam
+*.unmap.bam
+*.ubam
+*.gam
+
+# features
+*.bed
+*.gff
+*.gtf
+*.gvf
+*.vcf
+*.bcf
+*.tbi
+*.wig
+
+# general formats
+*.idx
+*.log
+*.res
