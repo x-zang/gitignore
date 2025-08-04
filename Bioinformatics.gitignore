@@ -32,7 +32,6 @@
 *.bed
 *.gff
 *.gtf
-*.gvf
 *.vcf
 *.vcf.gz
 *.bcf
@@ -42,4 +41,6 @@
 # general formats
 *.idx
 *.log
+*.err
 *.res
+*.tsv
