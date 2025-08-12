@@ -18,7 +18,7 @@
 *.vg
 *.xg
 
-# mapping
+# mapping, alignments
 *.sam
 *.bam
 *.bai
@@ -27,10 +27,14 @@
 *.unmap.bam
 *.ubam
 *.gam
+*.paf
+*.maf
+
 
 # features
 *.bed
 *.gff
+*.gff3
 *.gtf
 *.vcf
 *.vcf.gz
@@ -43,4 +47,22 @@
 *.log
 *.err
 *.res
+*.result
+*.results
 *.tsv
+*.csv
+*.txt
+
+# compressed
+*.gz
+*.zip
+*.bz2
+
+# dir
+work/
+result/
+results/
+test/
+tests/
+data/
+*output/
