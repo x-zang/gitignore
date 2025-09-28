@@ -30,7 +30,6 @@
 *.paf
 *.maf
 
-
 # features
 *.bed
 *.gff
@@ -53,6 +52,11 @@
 *.csv
 *.txt
 
+# workflow files
+.nextflow.log
+.nextflow.log.*
+.nextflow/
+
 # compressed
 *.gz
 *.zip
@@ -66,3 +70,39 @@ test/
 tests/
 data/
 *output/
+
+# IDE & coding agent
+.idea/
+.vscode/
+.vs/
+*.suo
+*.user
+*.sublime-project
+*.sublime-workspace
+.atom/
+.project
+.classpath
+.settings/
+*.xcodeproj/
+*.xcworkspace/
+.cursor/
+.claude/
+.ai/
+.assistant/
+
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
