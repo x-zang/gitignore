@@ -51,6 +51,17 @@
 *.tsv
 *.csv
 *.txt
+*.json
+
+# plots
+*.png
+*.html
+*.jpg
+*.jpeg
+*.pdf
+*.html
+*.svg
+*.dot
 
 # workflow files
 .nextflow.log
