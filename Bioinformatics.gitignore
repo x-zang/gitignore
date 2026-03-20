@@ -101,6 +101,9 @@ data/
 .ai/
 .assistant/
 CLAUDE.md
+AGENT.md
+PLAN*.md
+DEVLOG*.md
 
 
 # OS generated files
