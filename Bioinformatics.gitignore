@@ -82,7 +82,7 @@ tests/
 data/
 *output/
 
-# IDE & coding agent
+# IDE & coding agent, AI
 .idea/
 .vscode/
 .vs/

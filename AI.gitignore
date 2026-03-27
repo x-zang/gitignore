@@ -1,0 +1,23 @@
+# IDE & coding agent
+.idea/
+.vscode/
+.vs/
+*.suo
+*.user
+*.sublime-project
+*.sublime-workspace
+.atom/
+.project
+.classpath
+.settings/
+*.xcodeproj/
+*.xcworkspace/
+.cursor/
+.claude/
+.ai/
+.assistant/
+CLAUDE.md
+AGENT.md
+PLAN*.md
+DEVLOG*.md
+
